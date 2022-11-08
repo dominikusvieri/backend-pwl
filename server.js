@@ -12,4 +12,4 @@ app.use(express.json()) // untuk handle request kek dia bakal nerima reqnya seba
 
 app.use('/', userEndpoint)
 
-app.listen(port, () => console.log( `running server on port ${port}`))
+app.listen(port, () => console.log( `running server on port ${port}`)) // ada
