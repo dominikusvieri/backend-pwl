@@ -1,5 +1,5 @@
 # backend-pwl
-buat pwl cuy
+
 Check Node Version : node -v
 Check NPM Version : npm -v
 Initialized Server with Package.json : npm init
